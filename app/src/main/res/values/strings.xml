@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shell Home</string>
+    <string name="terminal_title">Shell Home Terminal</string>
+    <string name="drawer_title">App Drawer</string>
+    <string name="settings_title">Settings</string>
+    <string name="onboarding_title">Welcome to Shell Home</string>
+    <string name="default_launcher_prompt">Set Shell Home as your default launcher</string>
+    <string name="set_default_launcher">Set Default</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_hint">Search apps, commands…</string>
+    <string name="terminal_input_hint">Type a command or app name…</string>
+    <string name="clear">Clear</string>
+    <string name="execute">Execute</string>
+    <string name="favorites">Favorites</string>
+    <string name="hidden_apps">Hidden Apps</string>
+    <string name="aliases">Command Aliases</string>
+    <string name="appearance">Appearance</string>
+    <string name="behavior">Behavior</string>
+    <string name="accessibility_service_desc">Allows Shell Home to lock the screen on double tap gesture.</string>
+    <string name="notification_service_desc">Allows Shell Home to display notification badges on app icons.</string>
+</resources>

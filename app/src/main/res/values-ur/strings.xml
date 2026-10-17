@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">شیل ہوم</string>
+    <string name="terminal_title">شیل ہوم ٹرمینل</string>
+    <string name="drawer_title">ایپ دراز</string>
+    <string name="settings_title">ترتیبات</string>
+    <string name="onboarding_title">شیل ہوم میں خوش آمدید</string>
+    <string name="default_launcher_prompt">شیل ہوم کو اپنا پہلے سے طے شدہ لانچر بنائیں</string>
+    <string name="set_default_launcher">طے کریں</string>
+    <string name="skip">چھوڑیں</string>
+    <string name="next">اگلا</string>
+    <string name="get_started">شروع کریں</string>
+    <string name="search_hint">ایپس، کمانڈز تلاش کریں…</string>
+    <string name="terminal_input_hint">کمانڈ یا ایپ کا نام درج کریں…</string>
+    <string name="clear">صاف کریں</string>
+    <string name="execute">چلائیں</string>
+    <string name="favorites">پسندیدہ</string>
+    <string name="hidden_apps">پوشیدہ ایپس</string>
+    <string name="aliases">کمانڈ کے عرفی نام</string>
+    <string name="appearance">ظاہری شکل</string>
+    <string name="behavior">رویہ</string>
+    <string name="accessibility_service_desc">شیل ہوم کو ڈبل ٹیپ پر اسکرین لاک کرنے کی اجازت دیتا ہے۔</string>
+    <string name="notification_service_desc">شیل ہوم کو نوٹیفکیشن بیجز دکھانے کی اجازت دیتا ہے۔</string>
+</resources>
